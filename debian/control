@@ -1,0 +1,13 @@
+Source: iso-template-antix
+Section: admin
+Priority: optional
+Maintainer: anticapitalista <antix@operamail.com>
+Build-Depends: debhelper (>=7.0.50~)
+Standards-Version: 3.9.5
+Vcs-Git: git://github.com/anticapitalista/iso-template
+
+Package: iso-template-antix
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: ISO template
+ ISO Template is used by iso-snapshot to create live-CDs from the running system.
