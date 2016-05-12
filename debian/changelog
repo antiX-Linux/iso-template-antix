@@ -1,3 +1,28 @@
+iso-template-antix (15.7antix16) unstable; urgency=medium
+
+  * Release candidate ready
+
+ -- anticapitalista <antix@operamail.com>  Thu, 12 May 2016 11:50:19 +0300
+
+iso-template-antix (15.6antix16) unstable; urgency=medium
+
+  * Bug fixes related to uxa 
+
+ -- anticapitalista <antix@operamail.com>  Thu, 05 May 2016 12:10:09 +0300
+
+iso-template-antix (15.5antix16) unstable; urgency=medium
+
+  * initrd.gz changes to use ~/.desktop-session 
+  * initrd.gz changes to detect for uxa 
+
+ -- anticapitalista <antix@operamail.com>  Sat, 30 Apr 2016 23:21:54 +0300
+
+iso-template-antix (15.4antix16) unstable; urgency=medium
+
+  * Up to date with live files on antiX-16-beta2.1 
+
+ -- anticapitalista <antix@operamail.com>  Thu, 28 Apr 2016 18:50:22 +0300
+
 iso-template-antix (15.3antix16) testing; urgency=medium
 
   * Various changes to initrd.gz to gollow antiX-16 

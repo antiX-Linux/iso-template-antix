@@ -1,8 +1,8 @@
-Welcome to antiX-16-a2_386-full (8 April 2016)!
+Welcome to antiX-16
 
 To start the system, type one of the label names below and press [enter]:
 
-           live   antiX-16-a2 386-full (8 April 2016)
+           live   antiX-16
            safe   Safe Video Mode
        failsafe   Failsafe Boot
        harddisk   Boot from Hard Disk
