@@ -1,3 +1,21 @@
+iso-template-antix (15.10antix16) unstable; urgency=medium
+
+  * Save fewer boot options in grub2-save  
+
+ -- anticapitalista <antix@operamail.com>  Sat, 28 May 2016 10:24:48 +0300
+
+iso-template-antix (15.9antix16) unstable; urgency=medium
+
+  * further changes to live initrd scripts 
+
+ -- anticapitalista <antix@operamail.com>  Wed, 25 May 2016 01:01:45 +0300
+
+iso-template-antix (15.8antix16) instable; urgency=medium
+
+  * Added mmcblk detection to make-fstab 
+
+ -- anticapitalista <antix@operamail.com>  Sun, 22 May 2016 19:10:02 +0300
+
 iso-template-antix (15.7antix16) unstable; urgency=medium
 
   * Release candidate ready
