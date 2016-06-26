@@ -1,3 +1,10 @@
+iso-template-antix (15.17antix16) unstable; urgency=medium
+
+  * Don't add split times at break points that start with "b"
+  * Greek xlat translation 
+
+ -- anticapitalista <antix@operamail.com>  Sun, 26 Jun 2016 18:36:58 +0300
+
 iso-template-antix (15.16antix16) unstable; urgency=medium
 
   * Changes to hwclock
