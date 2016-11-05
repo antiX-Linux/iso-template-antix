@@ -1,3 +1,18 @@
+iso-template-antix (15.19antix16) unstable; urgency=medium
+
+  * Further changes to live int and iso-template
+
+ -- anticapitalista <antix@operamail.com>  Sat, 05 Nov 2016 13:12:17 +0200
+
+iso-template-antix (15.18antix16) unstable; urgency=medium
+
+  * Add console blanking control to live-init using vtblank=xx cheat
+  * Bump version of init
+  * added live-deb-install
+  * above mentioned refer to initrd.gz changes
+
+ -- anticapitalista <antix@operamail.com>  Wed, 29 Jun 2016 12:36:36 +0300
+
 iso-template-antix (15.17antix16) unstable; urgency=medium
 
   * Don't add split times at break points that start with "b"
