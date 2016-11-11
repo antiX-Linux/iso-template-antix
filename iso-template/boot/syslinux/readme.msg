@@ -1,4 +1,4 @@
-Welcome to %FULL_DISTRO_NAME% (%RELEASE_DATE%)!
+Welcome to antiX!
 
 To start the system, type one of the label names below and press [enter]:
 
