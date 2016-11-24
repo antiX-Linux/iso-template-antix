@@ -1,3 +1,24 @@
+iso-template-antix (15.23antix16) unstable; urgency=medium
+
+  * added the console font for Kazakh
+  * updated tz and lang menus to match gfxboot menus
+  * tried to fix a bug in loading fonts
+  * fixed iso-template no background image on uefi boot after snapshot
+
+ -- anticapitalista <antix@operamail.com>  Thu, 24 Nov 2016 13:47:13 +0200
+
+iso-template-antix (15.22antix16) unstable; urgency=medium
+
+  * Added more localisation 
+
+ -- anticapitalista <antix@operamail.com>  Fri, 18 Nov 2016 16:01:42 +0200
+
+iso-template-antix (15.21antix16) unstable; urgency=medium
+
+  * Added Kazakh 
+
+ -- anticapitalista <antix@operamail.com>  Wed, 16 Nov 2016 21:55:36 +0200
+
 iso-template-antix (15.20antix16) unstable; urgency=medium
 
   * Up to date with all latest changes to initr.gz and iso-template
