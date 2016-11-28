@@ -1,3 +1,11 @@
+iso-template-antix (15.24antix16) unstable; urgency=medium
+
+  * Bump init version
+  * Add a LICENSE file
+  * Add getch-64 to get space-evaders working on 64-bit again
+
+ -- anticapitalista <antix@operamail.com>  Mon, 28 Nov 2016 18:29:21 +0200
+
 iso-template-antix (15.23antix16) unstable; urgency=medium
 
   * added the console font for Kazakh
