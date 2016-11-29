@@ -15,7 +15,7 @@ terminal-box:   "inbox_*.png"
 #-     left  = 30%
 #-     top   = 8%
 #-     width = 100%
-#-     text  = " Welcome to antiX!"
+#-     text  = " Welcome to %DISTRO% (%ASCII_CODE_NAME%)!"
 #-     color = "#ffffff"
 #-     align = "left"
 #-     font  = "DejaVu Sans Bold 18"

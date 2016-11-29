@@ -1,3 +1,9 @@
+iso-template-antix (15.25antix16) unstable; urgency=medium
+
+  * ready for release
+
+ -- anticapitalista <antix@operamail.com>  Tue, 29 Nov 2016 16:56:11 +0200
+
 iso-template-antix (15.24antix16) unstable; urgency=medium
 
   * Bump init version
