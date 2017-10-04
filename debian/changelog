@@ -1,3 +1,47 @@
+iso-template-antix (16.10) unstable; urgency=medium
+
+  * Updated intrd.gz for better mounting options
+
+ -- anticapitalista <antix@operamail.com>  Fri, 29 Sep 2017 14:06:12 +0300
+
+iso-template-antix (16.9) unstable; urgency=medium
+
+  * new iso-tmplate and initrd.gz
+
+ -- anticapitalista <antix@operamail.com>  Wed, 27 Sep 2017 17:30:24 +0300
+
+iso-template-antix (16.8) unstable; urgency=medium
+
+  * update initrd.gz and iso-template for euefi grub 32 bit 
+
+ -- anticapitalista <antix@operamail.com>  Sat, 26 Aug 2017 10:55:21 +0100
+
+iso-template-antix (16.7) unstable; urgency=medium
+
+  * Locale updates
+
+ -- anticapitalista <antix@operamail.com>  Fri, 18 Aug 2017 15:55:53 +0100
+
+iso-template-antix (16.6) unstable; urgency=medium
+
+  * Locale updates
+  * Typo fixes
+  * Bump init version
+
+ -- anticapitalista <antix@operamail.com>  Sat, 12 Aug 2017 11:19:47 +0100
+
+iso-template-antix (16.5) unstable; urgency=medium
+
+  * Added wicd acpid to always be disabled on laptops ie in lean cheat
+
+ -- anticapitalista <antix@operamail.com>  Fri, 07 Jul 2017 21:04:16 +0300
+
+iso-template-antix (16.4) unstable; urgency=medium
+
+  * New initrd.gz includes encryption libs
+
+ -- anticapitalista <antix@operamail.com>  Sun, 02 Jul 2017 21:02:46 +0300
+
 iso-template-antix (16.3) unstable; urgency=medium
 
   * handle console fonts better
