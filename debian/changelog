@@ -1,3 +1,9 @@
+iso-template-antix (17.0) unstable; urgency=medium
+
+  * frugal on ntfs fixes
+
+ -- anticapitalista <antix@operamail.com>  Thu, 05 Oct 2017 13:14:41 +0300
+
 iso-template-antix (16.10) unstable; urgency=medium
 
   * Updated intrd.gz for better mounting options
