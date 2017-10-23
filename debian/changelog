@@ -1,3 +1,22 @@
+iso-template-antix (17.3) unstable; urgency=medium
+
+  * Fied typo errors for frugal_persist set up
+
+ -- anticapitalista <antix@operamail.com>  Wed, 18 Oct 2017 19:16:08 +0300
+
+iso-template-antix (17.2) unstable; urgency=medium
+
+  * Added fdir frugal boot cheat
+  * Automatically add grub entry when using fugal
+
+ -- anticapitalista <antix@operamail.com>  Tue, 17 Oct 2017 20:05:03 +0300
+
+iso-template-antix (17.1) unstable; urgency=medium
+
+  * fixed false mount error
+
+ -- anticapitalista <antix@operamail.com>  Fri, 13 Oct 2017 00:38:39 +0300
+
 iso-template-antix (17.0) unstable; urgency=medium
 
   * frugal on ntfs fixes
