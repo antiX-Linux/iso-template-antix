@@ -1,3 +1,9 @@
+iso-template-antix (17.5) unstable; urgency=medium
+
+  * included Amharic language
+
+ -- anticapitalista <antix@operamail.com>  Sun, 25 Feb 2018 18:57:45 +0200
+
 iso-template-antix (17.4) unstable; urgency=medium
 
   * Remove the /etc/localtime file before trying to make a symlink in initrd.gz
